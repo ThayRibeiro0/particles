@@ -1,0 +1,19 @@
+#particles-js{
+  background-color: #1c1919;
+  background-image: url('');
+  background-size: cover;
+  background-position: 100%;
+  background-repeat: no-repeat;
+}
+
+.h1 {
+  color: white;
+}
+
+.container {
+  width: 100%;
+  padding-right: 15px;
+  padding-left: 15px;
+  margin-right: auto;
+  margin-left: auto;
+}
